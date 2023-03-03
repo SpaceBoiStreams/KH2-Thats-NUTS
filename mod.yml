@@ -1,0 +1,7 @@
+title: N u t
+description: That's... nuts...!
+assets:
+- name: voice/us/battle/dc0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/dc0_sora.win32.scd
